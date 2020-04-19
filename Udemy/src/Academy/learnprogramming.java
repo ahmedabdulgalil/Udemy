@@ -30,6 +30,8 @@ public class learnprogramming {
 		
 		System.out.println(" Long Min Value = " + myMinLongValue);
 		System.out.println(" Long Max value = " + myMaxLongValue);
+		
+		short myNewShortValue = (short) (myMinShortValue / 2);
 
 	}
 
