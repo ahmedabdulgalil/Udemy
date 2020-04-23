@@ -32,7 +32,7 @@ public class operators {
 		System.out.println(" 4 % 3 = " + result);
 		
 		result++;
-		System.out.println(" result"+ result);
+		System.out.println(" result "+ result);
 
 	}
 
